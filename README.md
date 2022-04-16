@@ -109,7 +109,7 @@ https://dbdiagram.io/d/625899302514c9790333d49e -->
 <!-- CONTACT -->
 ## Contact
 
-Asheesh Singh - [Linked in](https://github.com/asheeshsingh1/)
+Asheesh Singh - [Linked in](https://www.linkedin.com/in/asheeshsingh1/)
 
 
 
